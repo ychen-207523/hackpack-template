@@ -1,0 +1,9 @@
+Challenge: OvertheWire Bandit
+
+Commands: find
+This is the basic command used in Unix and Linux systems to search for files and directories in a directory hierarchy.
+
+Example: find . -type f -size 5c -user <> -group <>
+.: find the files in the current directory
+-type f: This option tells find to look for files only. The -type option is used to specify the type of item to search for. f stands for regular files (as opposed to directories (d), symbolic links (l), etc.).
+-size 5c: means that the find command will search for files that are exactly 5 bytes in size. The c at the end stands for bytes. Without the c, the size is interpreted in 512-byte blocks by default on many systems. Other size units include k for kilobytes, M for megabytes, and G for gigabytes.
