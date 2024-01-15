@@ -1,6 +1,6 @@
 # Welcome to My HackPack Portfolio!
 
-Hey there! I'm [Your Name], a [Year] student at **North Carolina State University**. I've been an enthusiastic member of **HackPack** for [Time Period].
+Hey there! I'm Yunfei Chen, a graduate student at **North Carolina State University**. I've been an enthusiastic member of **HackPack** for one year.
 
 ## Portfolio Overview
 
